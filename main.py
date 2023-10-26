@@ -96,7 +96,7 @@ main_html = """
       <input id="myImage" name="myImage" type="hidden" value="">
       <input id="bt_upload" type="submit" value="Enviar">
       </form>
-      <button onclick=window.location.href='http://127.0.0.1:5000/prepare'>preparar</button>
+      <button onclick=window.location.href='https://flask-production-7075.up.railway.app/prepare'>preparar</button>
     </div>
 </body>
 </html>
